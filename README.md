@@ -1,16 +1,23 @@
-## Hi there 👋
+# Tony Diefenbach
 
-<!--
-**Dewars30/Dewars30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder-builder at [Fulcrum](https://fulcrumlayer.io), building control and evidence infrastructure for autonomous agent actions.
 
-Here are some ideas to get you started:
+I work across Go, Python, Lean, TypeScript, and Rust. My current focus is pre-execution policy, trust-aware routing, circuit breaking, auditable decision records, and machine-checkable claims.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Fulcrum Boundary](https://github.com/Fulcrum-Governance/Fulcrum-Boundary) | Governs routed agent actions before privileged tools execute and emits hash-verifiable decision records. | Go |
+| [Fulcrum Trust](https://github.com/Fulcrum-Governance/Fulcrum-Trust) | Adaptive trust evaluation, circuit breaking, and trust-aware routing for AI agent systems. | Python |
+| [Fulcrum Proofs](https://github.com/Fulcrum-Governance/Fulcrum-Proofs) | Lean 4 proofs, claim ledgers, and formal artifacts for the Fulcrum control model. | Lean |
+| [NotchOS](https://github.com/Dewars30/notchos) | A macOS control surface for monitoring and approving work across AI coding agents. | Rust, TypeScript |
+| [Sous Audit](https://github.com/Dewars30/sous-audit) | An XPRIZE R&D prototype for AI-assisted accounts-payable reconciliation. | TypeScript |
+
+## Working principles
+
+- Govern consequential actions before execution, not after.
+- Keep public claims aligned with implementations, tests, and evidence.
+- Prefer small, typed control planes over broad orchestration layers.
+
+Palm Springs, California · [fulcrumlayer.io](https://fulcrumlayer.io) · [LinkedIn](https://www.linkedin.com/in/tonydiefenbach/)
