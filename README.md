@@ -4,6 +4,10 @@ Founder-builder at [Fulcrum](https://fulcrumlayer.io), building control and evid
 
 I work across Go, Python, Lean, TypeScript, and Rust. My current focus is pre-execution policy, trust-aware routing, circuit breaking, auditable decision records, and machine-checkable claims.
 
+## Products for small businesses
+
+I build and run working products for small businesses as well as developer infrastructure. [Proximo](https://proximocollections.com) is live software for B2B invoice follow-up, helping small teams get paid while keeping them in control of the customer relationship.
+
 ## Current work
 
 | Project | What it does | Stack |
@@ -20,4 +24,4 @@ I work across Go, Python, Lean, TypeScript, and Rust. My current focus is pre-ex
 - Keep public claims aligned with implementations, tests, and evidence.
 - Prefer small, typed control planes over broad orchestration layers.
 
-Palm Springs, California · [fulcrumlayer.io](https://fulcrumlayer.io) · [LinkedIn](https://www.linkedin.com/in/tonydiefenbach/)
+Palm Springs, California · [fulcrumlayer.io](https://fulcrumlayer.io) · [Proximo](https://proximocollections.com) · [LinkedIn](https://www.linkedin.com/in/tonydiefenbach/)
